@@ -1,4 +1,4 @@
-<div style="width:100%;height:0;padding-bottom:63%;position:relative;"><iframe src="https://giphy.com/embed/3diu2dFNpV8AnozJ3V" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3diu2dFNpV8AnozJ3V">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/3diu2dFNpV8AnozJ3V" width="480" height="300" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/3diu2dFNpV8AnozJ3V">via GIPHY</a></p>
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SherwinGeligJr
 =======================================================================================================================================
 
