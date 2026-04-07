@@ -1,4 +1,4 @@
-![giphy](https://github.com/user-attachments/assets/af83ebfd-20c7-4b94-adcf-cb1026564db6)
+![让兴趣，更有趣](https://github.com/user-attachments/assets/472bef46-b461-4039-aa4b-901e9e3270c1)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is SherwinGeligJr
 =======================================================================================================================================
